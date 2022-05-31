@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aidaodedjl.github.io/DJL-s-Blog/</id>
+    <title>DJL的小站</title>
+    <updated>2022-05-31T16:50:44.365Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://aidaodedjl.github.io/DJL-s-Blog/"/>
+    <link rel="self" href="https://aidaodedjl.github.io/DJL-s-Blog/atom.xml"/>
+    <subtitle>408冲冲冲！</subtitle>
+    <logo>https://aidaodedjl.github.io/DJL-s-Blog/images/avatar.png</logo>
+    <icon>https://aidaodedjl.github.io/DJL-s-Blog/favicon.ico</icon>
+    <rights>All rights reserved 2022, DJL的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[408备忘]]></title>
+        <id>https://aidaodedjl.github.io/DJL-s-Blog/post/408-sui-shou-bi-ji/</id>
+        <link href="https://aidaodedjl.github.io/DJL-s-Blog/post/408-sui-shou-bi-ji/">
+        </link>
+        <updated>2022-05-31T14:24:49.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="typedef-struct-和-struct">typedef struct 和 struct</h2>
+<p>若struct node{ }这样来定义结构体的话。在定义 node 的结构体变量时，需要这样写:struct node n;<br>
+若用typedef，可以这样写：typedef struct node{ } NODE; 。在申请变量时就可以这样写：NODE n;<br>
+其实就相当于 NODE 是node 的别名。<br>
+<strong>区别</strong>就在于：使用时，是否可以省去struct这个关键字。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一篇文章]]></title>
+        <id>https://aidaodedjl.github.io/DJL-s-Blog/post/di-yi-pian-wen-zhang/</id>
+        <link href="https://aidaodedjl.github.io/DJL-s-Blog/post/di-yi-pian-wen-zhang/">
+        </link>
+        <updated>2022-05-31T08:02:19.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="随便瞎写写">随便瞎写写</h2>
+<p>我也不知道写什么/doge<br>
+<em>是斜体？</em><br>
+<s>我是要删掉的文字</s><br>
+先记录一下Markdown的语法吧<br>
+网址：https://www.jianshu.com/p/191d1e21f7ed/</p>
+]]></content>
+    </entry>
+</feed>
